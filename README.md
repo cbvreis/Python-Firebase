@@ -9,7 +9,7 @@ Para esse trabalho utilizamos como fonte de estudo o curso de Python ministrado 
 </br>
 
 <p align="center"> 
-  <img src="result/carpet.png" alt="Página inicial" width="100%">
+  <img src="image.png" alt="Página inicial" width="100%">
 </p>
 
 </br>
