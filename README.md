@@ -34,7 +34,7 @@ $ git clone https://github.com/cbvreis/Python-Firebase.git
 pip install -r requirements.txt
 
 # Entrar no diretorio **/data-visualization**
-$ cd data-visualization
+$ cd Python-Firebase
 ```
 
 ## 🗂 Firebase
